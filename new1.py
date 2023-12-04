@@ -5,3 +5,4 @@ while x < 15:
 	print(x)
 	x += 1
     x += 3
+    x += 6
